@@ -1,4 +1,5 @@
 # vuejs/core [![npm](https://img.shields.io/npm/v/vue.svg)](https://www.npmjs.com/package/vue) [![build status](https://github.com/vuejs/core/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vuejs/core/actions/workflows/ci.yml) [![Download](https://img.shields.io/npm/dm/vue)](https://www.npmjs.com/package/vue)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fcoree.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fcoree?ref=badge_shield)
 
 ## Getting Started
 
@@ -54,3 +55,6 @@ Thank you to all the people who already contributed to Vue!
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fcoree.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fcoree?ref=badge_large)
